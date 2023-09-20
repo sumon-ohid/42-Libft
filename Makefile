@@ -6,7 +6,7 @@
 #    By: sumon <sumon@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/09/15 08:14:24 by msumon            #+#    #+#              #
-#    Updated: 2023/09/19 07:35:21 by sumon            ###   ########.fr        #
+#    Updated: 2023/09/20 06:31:10 by sumon            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -20,7 +20,7 @@ SRCS 			= 	ft_atoi.c ft_bzero.c ft_isalpha.c ft_isalnum.c ft_isascii.c \
 
 OBJS			= $(SRCS:.c=.o)
 
-CC				= gcc
+CC				= cc
 
 RM				= rm -f
 
