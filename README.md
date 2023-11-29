@@ -8,18 +8,20 @@ The libft library contains a variety of functions, including those for string ma
 ## Library Functions
 The library includes functions such as:
 
-Memory Functions: ft_memset, ft_bzero, ft_memcpy, ft_memmove, ft_memcmp
+***Memory Functions:***
+ft_memset, ft_bzero, ft_memcpy, ft_memmove, ft_memcmp
 
-String Functions: ft_strlen, ft_strdup, ft_strcpy, ft_strncpy, ft_strcat, ft_strncat, ft_strlcat, ft_strchr, ft_strrchr, ft_strstr, ft_strnstr, ft_strcmp, ft_strncmp, ft_striter, ft_striteri, ft_strmapi, ft_strjoin, ft_strtrim, ft_split
+***String Functions:***
+ft_strlen, ft_strdup, ft_strcpy, ft_strncpy, ft_strcat, ft_strncat, ft_strlcat, ft_strchr, ft_strrchr, ft_strstr, ft_strnstr, ft_strcmp, ft_strncmp, ft_striter, ft_striteri, ft_strmapi, ft_strjoin, ft_strtrim, ft_split
 
-Character Functions: ft_isalpha, ft_isdigit, ft_isalnum, ft_isascii, ft_isprint, ft_toupper, ft_tolower
+***Character Functions:***
+ft_isalpha, ft_isdigit, ft_isalnum, ft_isascii, ft_isprint, ft_toupper, ft_tolower
 
-Numeric Functions: ft_itoa, ft_atoi
+***Numeric Functions:***
+ft_itoa, ft_atoi
 
-Output Functions: ft_putchar_fd, ft_putstr_fd, ft_putendl_fd, ft_putnbr_fd
-
-Linked List Functions: ft_lstnew, ft_lstdelone, ft_lstdel, ft_lstadd, ft_lstiter, ft_lstmap
-
+***Output Functions:***
+ft_putchar_fd, ft_putstr_fd, ft_putendl_fd, ft_putnbr_fd
 ...and more.
 
 ## Usage
@@ -44,6 +46,5 @@ make
 This will generate the libft.a library file.
 
 ## Testing
-Check the functionality of the library functions with francinette.
-
-Check here :: [Francinette](https://github.com/xicodomingues/francinette)
+***Check the functionality of the library functions with francinette.***
+## Check here :: [Francinette](https://github.com/xicodomingues/francinette)
