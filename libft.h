@@ -6,7 +6,7 @@
 /*   By: msumon <msumon@student.42vienna.com>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/15 08:13:06 by msumon            #+#    #+#             */
-/*   Updated: 2023/12/12 12:02:31 by msumon           ###   ########.fr       */
+/*   Updated: 2024/09/26 12:52:52 by msumon           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,6 +64,6 @@ char				**ft_split(char const *s, char c);
 // ******* linked list ********
 t_list				*ft_lstnew(void *content);
 void				ft_lstadd_front(t_list **lst, t_list *new);
-int 				ft_lstsize(t_list *lst);
+int					ft_lstsize(t_list *lst);
 
 #endif
